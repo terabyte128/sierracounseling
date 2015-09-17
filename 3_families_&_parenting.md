@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Families & Parenting"
-permalink: /families_and_parenting/
+permalink: /families-and-parenting/
 description: Information about services relating to families and parenting.
 ---
 
