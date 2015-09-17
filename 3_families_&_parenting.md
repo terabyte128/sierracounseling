@@ -2,6 +2,7 @@
 layout: page
 title: "Families & Parenting"
 permalink: /families_and_parenting/
+description: Information about services relating to families and parenting.
 ---
 
 <h4>Families</h4>

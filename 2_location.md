@@ -2,6 +2,7 @@
 layout: page
 title: "Location"
 permalink: /location/
+description: Office location in North Seattle, near Green Lake.
 ---
 
 I am conveniently located in the Greenlake neighborhood of Seattle, with easy access from I-5 and SR 99 and onsite parking.
